@@ -1,4 +1,4 @@
-# [English](./README.md) | 简体中文
+# [English](./README-EN.md) | 简体中文
 
 # 无论是红白机 (FC/NES)、超级任天堂 (SFC)、GameBoy 系列 (GB/GBA)、NDS，还是索尼 PlayStation (PS1)、任天堂 64 (N64)、世嘉 MD，甚至是街机 (NeoGeo、PGM)，iROM都可使用，支持即点即玩。
 
