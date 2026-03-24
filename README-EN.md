@@ -1,4 +1,4 @@
-# English | [简体中文](./README-CN.md)
+# [English](./README-EN.MD) | 简体中文
 
 # iROM can be used with various consoles, including the Famicom (FC/NES), Super Nintendo (SFC), Game Boy series (GB/GBA), NDS, Sony PlayStation (PS1), Nintendo 64 (N64), Sega Mega Drive, and even arcade machines (NeoGeo, PGM), supporting instant play.
 
